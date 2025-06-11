@@ -9,21 +9,12 @@ const Footer = () => {
         <div className="footer-content">
             <div className="footer-content-left">
                 <img src={assets.logo_bottom} alt="" />
-                <p> FoodPrep is a full-stack project created by Adithya Bijoy as part of his exploration into modern web development. This solo project showcases his hands-on approach to learning and building real-world applications while enhancing his front-end skills.</p>
+                <p> Kick-off is a full-stack project created by Adithya Bijoy as part of his exploration into modern web development. This solo project showcases his hands-on approach to learning and building real-world applications while enhancing his front-end skills.</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
                     <img src={assets.twitter_icon} alt="" />
                     <img src={assets.linkedin_icon} alt="" />
                 </div>
-            </div>
-            <div className="footer-content-center">
-                <h2>Company</h2>
-                <ul>
-                    <a href="https://faceprep.edmingle.com/"><li>Home</li></a>
-                    <a href="https://faceprep.edmingle.com/contact-us"><li>About us</li></a>
-                    <a href="https://faceprep.edmingle.com/courses"><li>Courses</li></a>
-                    <a href="https://faceprep.edmingle.com/reviews"><li>Reviews</li></a>
-                </ul>
             </div>
             <div className="footer-content-right">
                 <h2>Get in touch</h2>
@@ -35,7 +26,7 @@ const Footer = () => {
             
         </div>
         <hr />
-        <p className="footer-copyright">Copyright 2025 © FoodPrep. All rights reserved.</p>
+        <p className="footer-copyright">Copyright 2025 © Kick-Off. All rights reserved.</p>
     </div>
   )
 }

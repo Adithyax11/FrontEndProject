@@ -86,267 +86,267 @@ export const assets = {
 
 export const menu_list = [
     {
-        menu_name: "Salad",
+        menu_name: "Jerseys",
         menu_image: menu_1
     },
     {
-        menu_name: "Rolls",
+        menu_name: "Studs",
         menu_image: menu_2
     },
     {
-        menu_name: "Deserts",
+        menu_name: "Shoes",
         menu_image: menu_3
     },
     {
-        menu_name: "Sandwich",
+        menu_name: "Keeping Gloves",
         menu_image: menu_4
     },
     {
-        menu_name: "Cake",
+        menu_name: "Footballs",
         menu_image: menu_5
     },
     {
-        menu_name: "Pure Veg",
+        menu_name: "Socks",
         menu_image: menu_6
     },
     {
-        menu_name: "Pasta",
+        menu_name: "Shin Guards",
         menu_image: menu_7
     },
     {
-        menu_name: "Noodles",
+        menu_name: "Kit Bags",
         menu_image: menu_8
     }]
 
 export const food_list = [
     {
         _id: "1",
-        name: "Greek salad",
+        name: "Argentina Home Jersey",
         image: food_1,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        price: 5120,
+        description: "Celebrate the champions with the official Argentina 2024 jersey featuring premium fabric and iconic sky-blue stripes.",
+        category: "Jerseys"
     },
     {
         _id: "2",
-        name: "Veg salad",
+        name: "Brazil Home Jersey",
         image: food_2,
-        price: 180,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        price: 4180,
+        description: "Show your love for Seleção with Neymar Jr’s #10 jersey – crafted for both comfort and fan pride.",
+        category: "Jerseys"
     }, {
         _id: "3",
-        name: "Clover Salad",
+        name: "Barcelona Away Jersey 2024",
         image: food_3,
-        price: 160,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        price: 6160,
+        description: "Support the rising star Lamine Yamal in this sleek 2024 Barça away kit with Spotify sponsor branding.",
+        category: "Jerseys"
     }, {
         _id: "4",
-        name: "Chicken Salad",
+        name: "Hartlepool United Home Jersey",
         image: food_4,
-        price: 240,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Salad"
+        price: 1240,
+        description: "Classic blue-and-white stripes for the true fan – inspired by historic English football kits.",
+        category: "Jerseys"
     }, {
         _id: "5",
-        name: "Lasagna Rolls",
+        name: "Adidas Predator Edge",
         image: food_5,
-        price: 140,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        price: 19140,
+        description: "Engineered for power and control, these studs feature a striking design with enhanced grip for aggressive play.",
+        category: "Studs"
     }, {
         _id: "6",
-        name: "Peri Peri Rolls",
+        name: "Nike Zoom Mercurial Vapor",
         image: food_6,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        price: 12120,
+        description: "Lightweight speed meets cutting-edge comfort — built for pace and precision on firm ground pitches.",
+        category: "Studs"
     }, {
         _id: "7",
-        name: "Chicken Rolls",
+        name: "Nivia Dominator 2.0",
         image: food_7,
-        price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        price: 1200,
+        description: "Durable and dependable, perfect for turf warriors looking for stability, traction, and flair on every move.",
+        category: "Studs"
     }, {
         _id: "8",
-        name: "Veg Rolls",
+        name: "Umbro Speciali Eternal",
         image: food_8,
-        price: 150,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Rolls"
+        price: 5550,
+        description: "A classic reborn — combining timeless style with modern tech for all-round control and comfort.",
+        category: "Studs"
     }, {
         _id: "9",
-        name: "Ripple Ice Cream",
+        name: "Adidas Galaxy 6",
         image: food_9,
-        price: 140,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        price: 5440,
+        description: "Versatile everyday runners with a cushioned midsole and breathable mesh upper — comfort that lasts.",
+        category: "Shoes"
     }, {
         _id: "10",
-        name: "Fruit Ice Cream",
+        name: "Adidas RunFalcon 3.0",
         image: food_10,
-        price: 220,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        price: 4420,
+        description: " Perfect for fitness and casual wear, these lightweight shoes offer grip and durability for any terrain.",
+        category: "Shoes"
     }, {
         _id: "11",
-        name: "Jar Ice Cream",
+        name: "Puma Rebound LayUp Mid",
         image: food_11,
-        price: 100,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        price: 5100,
+        description: "Retro-inspired high-top sneakers with a padded collar — made for style, comfort, and street-ready support.",
+        category: "Shoes"
     }, {
         _id: "12",
-        name: "Vanilla Ice Cream",
+        name: "Puma Flyer Flex",
         image: food_12,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Deserts"
+        price: 6120,
+        description: "Dynamic flex grooves and modern design make these training shoes ideal for high-movement workouts.",
+        category: "Shoes"
     },
     {
         _id: "13",
-        name: "Chicken Sandwich",
+        name: "Adidas Predator GL Pro",
         image: food_13,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        price: 6120,
+        description: "Professional-level grip and fit with seamless knit backhand and Demonskin 2.0 control elements.",
+        category: "Keeping Gloves"
     },
     {
         _id: "14",
-        name: "Vegan Sandwich",
+        name: "Adidas Predator Pro Fingersave",
         image: food_14,
-        price: 180,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        price: 6180,
+        description: " Elite protection with Fingersave spines, engineered for powerful blocks and secure punches.",
+        category: "Keeping Gloves"
     }, {
         _id: "15",
-        name: "Grilled Sandwich",
+        name: "Nivia Ultra Armour",
         image: food_15,
-        price: 160,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        price: 1160,
+        description: "Affordable, high-durability gloves with padded fingers and enhanced wrist closure for stability.",
+        category: "Keeping Gloves"
     }, {
         _id: "16",
-        name: "Bread Sandwich",
+        name: "Puma Future Grip 5.1 Hybrid",
         image: food_16,
-        price: 240,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        price: 7240,
+        description: "Hybrid cut with superior latex grip — designed for agility, response, and reliable catch performance.",
+        category: "Keeping Gloves"
     }, {
         _id: "17",
-        name: "Cup Cake",
+        name: "Nike Premier League Flight",
         image: food_17,
-        price: 140,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        price: 17140,
+        description: "Designed for precision and consistency with AerowSculpt tech and Premier League graphics.",
+        category: "Footballs"
     }, {
         _id: "18",
-        name: "Vegan Cake",
+        name: "Puma La Liga Accelerate",
         image: food_18,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        price: 11120,
+        description: "Official La Liga match ball built for speed, accuracy, and durability in top-flight games.",
+        category: "Footballs"
     }, {
         _id: "19",
-        name: "Butterscotch Cake",
+        name: "Derbystar Bundesliga",
         image: food_19,
-        price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        price: 7200,
+        description: "Bundesliga-approved ball crafted for elite-level play, with high-rebound bladder and hybrid surface.",
+        category: "Footballs"
     }, {
         _id: "20",
-        name: "Sliced Cake",
+        name: "Uhlsport Ligue 1 Uber Eats",
         image: food_20,
-        price: 150,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        price: 8150,
+        description: "Official match ball of Ligue 1 featuring Thermo Bonded panels for enhanced control and minimal water uptake.",
+        category: "Footballs"
     }, {
         _id: "21",
-        name: "Garlic Mushroom ",
+        name: "Adidas Italia 22 ",
         image: food_21,
-        price: 140,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        price: 1140,
+        description: "Official Italy national team socks with moisture-wicking fabric and arch support.",
+        category: "Socks"
     }, {
         _id: "22",
-        name: "Fried Cauliflower",
+        name: "Adidas Team Socks",
         image: food_22,
-        price: 220,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        price: 920,
+        description: "Comfortable knee-length performance socks featuring cushioned soles and compression fit.",
+        category: "Socks"
     }, {
         _id: "23",
-        name: "Mix Veg Pulao",
+        name: "Nike Classic II",
         image: food_23,
-        price: 100,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        price: 800,
+        description: "Lightweight and breathable socks with Dri-FIT technology to keep feet dry during play.",
+        category: "Socks"
     }, {
         _id: "24",
-        name: "Rice Zucchini",
+        name: "Nivia Compression Socks",
         image: food_24,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        price: 720,
+        description: "Supportive compression socks designed to improve circulation and reduce fatigue",
+        category: "Socks"
     },
     {
         _id: "25",
-        name: "Cheese Pasta",
+        name: "G-Form Pro-S Elite",
         image: food_25,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        price: 3120,
+        description: "Flexible, body-mapped shin guards offering impact protection with SmartFlex™ technology.",
+        category: "Shin Guards"
     },
     {
         _id: "26",
-        name: "Tomato Pasta",
+        name: "Adidas X League",
         image: food_26,
-        price: 180,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        price: 2180,
+        description: "Lightweight shin guards with compression sleeves and shock-absorbing shield design.",
+        category: "Shin Guards"
     }, {
         _id: "27",
-        name: "Creamy Pasta",
+        name: "Nike Charge",
         image: food_27,
-        price: 160,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        price: 2160,
+        description: "Durable shell with foam backing for comfort and ankle support sleeves included.",
+        category: "Shin Guards"
     }, {
         _id: "28",
-        name: "Chicken Pasta",
+        name: "Nike Mercurial Lite",
         image: food_28,
-        price: 240,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        price: 2240,
+        description: "Ultra-light design with low-profile construction and soft sleeve for secure fit.",
+        category: "Shin Guards"
     }, {
         _id: "29",
-        name: "Buttter Noodles",
+        name: "FORZA Sports Duffle",
         image: food_29,
-        price: 140,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        price: 2140,
+        description: "Durable, spacious duffle bag perfect for carrying sports gear and essentials.",
+        category: "Kit Bags"
     }, {
         _id: "30",
-        name: "Veg Noodles",
+        name: "PANFILA Football Kit Bag",
         image: food_30,
-        price: 120,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        price: 1120,
+        description: "Multifunctional backpack with dedicated ball holder and separate compartments for shoes and gear.",
+        category: "Kit Bags"
     }, {
         _id: "31",
-        name: "Somen Noodles",
+        name: "PUMA Phase Graphic Backpack",
         image: food_31,
-        price: 200,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        price: 3200,
+        description: "Stylish, comfortable backpack with padded shoulder straps and multiple compartments.",
+        category: "Kit Bags"
     }, {
         _id: "32",
-        name: "Cooked Noodles",
+        name: "Nike Brasilia Duffle",
         image: food_32,
-        price: 150,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        price: 3150,
+        description: "Compact and sturdy duffle bag with a large main compartment and ventilated shoe pocket.",
+        category: "Kit Bags"
     }
 ]
